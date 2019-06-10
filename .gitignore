@@ -1,0 +1,9 @@
+# Don't track the following content
+.ipynb_checkpoints
+/news_articles_scrape/article_data/
+news_articles_processing/data_frames/
+news_article_links_*.pkl
+bitcoin_news_df_*.pkl
+bitcoin_news_raw_*.pkl
+forum_subject_links.pkl
+.news_articles_processing
